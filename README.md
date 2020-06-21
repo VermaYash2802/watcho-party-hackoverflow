@@ -1,6 +1,6 @@
 # Watcho Party
 
-> Dishathon 2020: Team hackoverflow
+> 1st Position - Dishathon 2020: Team hackoverflow
 
 ## Download and Installation
 
